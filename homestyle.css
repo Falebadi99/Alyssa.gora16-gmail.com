@@ -1,19 +1,12 @@
-#main-header {
+body {
+     text-align:center;
+     }
 
-        text-align:center;
-
-        text-decoration:underline;
-
-        height:200px;
-
-        background-color:a284cc;
-
-}
-    
-    
-
-#main-header h1 {
-
-        padding:50px;
-
-}
+#mainhead {
+         background-color:E6E6FA;
+         background-size:cover;
+         height:200;
+         vertical-align:middle;
+         line-height:200px;
+         text-decoration:underline;
+     }
