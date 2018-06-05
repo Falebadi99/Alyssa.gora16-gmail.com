@@ -39,7 +39,7 @@ ul{
 }
 #pictures img {
     height: 400px;
-    width: 400px;
+    width: 100%;
     position: center;
     padding: 40px;
 }
