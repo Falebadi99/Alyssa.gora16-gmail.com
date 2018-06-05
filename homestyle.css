@@ -1,6 +1,9 @@
 body {
      text-align:center;
+     background-image: url(https://image.ibb.co/jxMgxd/imageedit_4_5022829834.png);
+
      }
+
 
 #mainhead {
          background-color:E6E6FA;
@@ -10,3 +13,23 @@ body {
          line-height:200px;
          text-decoration:underline;
      }
+ul{
+    margin:auto;
+    width:10%;
+}
+
+#footer {
+    background-color:E6E6FA;
+    height: 61px;
+    width:100%;
+
+}
+
+.contact {
+    display: inline-block;
+    margin:20px;
+    font-weight:bold;
+    vertical-align: center;
+    bottom: 0;
+    position: fixed;
+}
