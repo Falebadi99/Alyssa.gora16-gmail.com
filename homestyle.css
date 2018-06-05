@@ -22,6 +22,8 @@ ul{
     background-color:E6E6FA;
     height: 61px;
     width:100%;
+    bottom: 0;
+    position: fixed;
 
 }
 
@@ -29,7 +31,19 @@ ul{
     display: inline-block;
     margin:20px;
     font-weight:bold;
-    vertical-align: center;
-    bottom: 0;
-    position: fixed;
+    vertical-align:center;
+}
+#pictures {
+    padding: 50px;
+    position: center;
+}
+#pictures img {
+    height: 400px;
+    width: 400px;
+    position: center;
+    padding: 40px;
+}
+#body ul li {
+    font-size: 30px;
+    padding-top: 20px;
 }
