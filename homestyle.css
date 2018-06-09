@@ -34,8 +34,9 @@ ul{
     vertical-align:center;
 }
 #pictures {
-    padding: 50px;
+    margin: top;
     position: center;
+    
 }
 #pictures img {
     height: 400px;
