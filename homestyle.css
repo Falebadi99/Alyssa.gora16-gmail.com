@@ -38,10 +38,9 @@ ul{
     
 }
 #pictures img {
-    height: 400px;
-    width: 100%;
-    position: center;
-    padding: 40px;
+    height: 500px;
+    width: 700px;
+    padding: 50px;
 }
 #body ul li {
     font-size: 30px;
