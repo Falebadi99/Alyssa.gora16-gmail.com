@@ -4,7 +4,7 @@ body {
 
      }
 h1, h2, h3 {
-     text-decoration: underlined;
+     text-decoration: underline;
 }
 
 
@@ -37,6 +37,7 @@ ul{
     vertical-align:center;
 }
 #pictures {
+Margin: 50px;
   
     
 }
